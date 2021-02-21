@@ -1,0 +1,13 @@
+name: impuremaths
+baseurl: impuremaths
+
+permalink: /:year/:month/:day/:title
+plugins:
+  - jekyll-seo-tag
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "page"
