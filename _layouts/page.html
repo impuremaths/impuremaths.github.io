@@ -139,11 +139,13 @@ for (let i = 0; i < list.length; i++) {
 	}
 }
 	
-		function make(string, myClass) { 
-			let myObj = document.createElement(string);
-			if (myClass) myObj.classList.add(myClass);
-			return myObj;
-		}
+function D(string) { return document.getElementById(string); }		
+	
+function make(string, myClass) { 
+	let myObj = document.createElement(string);
+	if (myClass) myObj.classList.add(myClass);
+	return myObj;
+}
 	
 function show(id) { DE(id).style.display = 'inline';}
 	
