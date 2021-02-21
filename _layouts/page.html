@@ -1,0 +1,158 @@
+<!DOCTYPE html><html>
+	
+<head>
+	{% if page.title %}			
+		<title>{{ page.title }} | {{ site.name }}</title>
+	{% else %}
+		<title>{{ site.name }}</title>
+	{% endif %}
+	<link rel="stylesheet" type="text/css" href="{{ "main.css" | relative_url }}">
+	<link rel="icon" href="{{ "sdg-transparent.png" | relative_url }}">
+	<script type="text/javascript" src="{{ "abc.js" | relative_url }}"></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">	
+	{% seo %}
+</head>
+	
+<body>	
+	<div id="outersidebar" class="outersidebar">
+	<div class="sidebar">
+	<div class="rpanel" id="accountPanel" tabIndex="-1" onfocus="D('postlist').focus();">		
+		<div class="titlepanel">
+			<span style="font-weight:bold;"><a href="{{ "" | absolute_url }}">Impure maths</a>
+				<div style="margin-top:10px; font-size:0.8em;"><a href="{{ site.posts.last.url | relative_url }}">About</a></div>
+			</span>
+		</div>
+						
+		<ul id="postlist" style="overflow:auto;">
+			{% for post in site.posts %}					
+				{% if page.title == post.title %}	
+					<li id="specialPost" style="background-color:#f4f4f4"><span class="date-format">{{ post.date | date: "%B %-d, %Y" }}</span><br>
+						{{ post.title }}</li>
+				{% else %}				
+					<a href="{{ post.url | relative_url }}"><li><span class="date-format">{{ post.date | date: "%B %-d, %Y" }}</span><br>
+						{{ post.title }}</li></a>				
+				{% endif %}
+			{% endfor %}
+			<br>
+		</ul>
+	</div>
+	<div class="sidebartab"></div>
+	</div>
+	</div>
+
+	<div id="main" class="main">		
+		{% if page.title %}		
+			<h1>{{ page.title }}</h1>
+			<div class="date-format" style="padding-bottom:15px">{{ page.date | date: "%B %-d, %Y" }}</div>
+		{% endif %}
+
+		<div class="contentHolder">
+		{{ content }}	
+		</div>
+	</div>	
+</body>	
+
+<script>
+var mobile = false;
+if(D('specialPost')) D('specialPost').scrollIntoView({behavior: "auto", block: "center", inline: "nearest"}); 
+if (screen.width <= 550 || screen.height <= 550) {
+	mobile = true;		
+	D('main').onclick = function() { D('outersidebar').scrollTo({
+	  top: 0,
+	  left: 1000,
+	  behavior: 'smooth'}); };
+}
+else {				
+	window.addEventListener("resize", resizeFunction);
+	D("accountPanel").onclick = resizeFunction;
+	resizeFunction();
+	function resizeFunction() { 
+		var w = D('accountPanel').offsetWidth + 30;
+		D("main").style.paddingLeft = `${w}px`;
+		D("main").style.width = `calc(100% - ${w}px)`;
+	}  
+}
+
+var ytString = [];
+let holder = [];	
+	
+var tag = make('script');
+tag.src = "https://www.youtube.com/iframe_api";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+	
+var ytRegex = /^.*(youtu\.be\/|vi?\/|u\/\w\/|embed\/|\?vi?=|\&vi?=)([^#\&\?]*).*/;	
+	
+var list = document.getElementsByTagName("a");
+for (let i = 0; i < list.length; i++) {
+	var match = list[i].href.match(ytRegex);
+	if (match && match[2].length == 11) {
+		ytString[i] = match[2];
+		holder[i] = document.createElement("div");
+		if (list[i].nextSibling) list[i].nextSibling.parentNode.insertBefore(holder[i], list[i]);
+		else list[i].parentNode.appendChild(holder[i]);
+		
+		holder[i].appendChild(make("br"));		
+		let myPreBut = make("button");
+		myPreBut.textContent = "Embedded player";
+		let placeHolder = make("div");		
+		placeHolder.style.textAlign = 'center';
+		placeHolder.style.padding = "0.75em";
+		placeHolder.appendChild(myPreBut);
+		holder[i].appendChild(placeHolder);
+		
+		function makeDiv(li) {		
+			let tempdiv = make('div', 'videoWrapWrap');
+
+			let wrapOne = make('div', 'mediaVideoWrapper');
+			wrapOne.innerHTML = `<svg class='placeholder-svg' height="100%" width="100%" viewBox="0 0 1600 900" style='stroke-width: 0px; background-color: black;'></svg>`;
+			hide(wrapOne);
+
+			tempdiv.appendChild(wrapOne);
+			li.appendChild(tempdiv);
+
+			return tempdiv;
+		}
+
+		myPreBut.onclick = function() {
+			
+			function remove(element) { element.parentNode.removeChild(element);}
+			remove(myPreBut.parentNode);
+			let tempdiv = makeDiv(holder[i]);
+			tempdiv.style.paddingTop = "0.75em";
+			tempdiv.firstChild.style.display = "block";
+
+			let theVideo = make('div');
+			theVideo.id = `player${i}`;
+			tempdiv.firstChild.appendChild(theVideo);
+
+			let myBut = make("button");
+			hide(myBut);
+			let player = new YT.Player(`player${i}`, {
+					playerVars: { 'modestbranding': 1},
+					videoId: ytString[i],
+					events: {
+						onReady: function() { show(myBut); },
+					}
+			});	
+		}
+	}
+}
+	
+		function make(string, myClass) { 
+			let myObj = document.createElement(string);
+			if (myClass) myObj.classList.add(myClass);
+			return myObj;
+		}
+	
+function show(id) { DE(id).style.display = 'inline';}
+	
+function hide(id) { DE(id).style.display = 'none';}
+	function DE(id) {
+	if (typeof id === 'string' || id instanceof String) return D(id);
+	else return id;	
+}
+	
+</script>
+</html>
