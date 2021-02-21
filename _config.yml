@@ -1,5 +1,5 @@
 name: impuremaths
-baseurl: impuremaths
+baseurl:
 
 permalink: /:year/:month/:day/:title
 plugins:
