@@ -26,6 +26,6 @@ Similarly, retail investors typically do not have easy access to short trades. T
 
 ### Valuing diversification
 
-You might be a typical investor with a typical risk-averse profile. In that case, you would be just as willing to buy an option as to sell one, and so you may as well do neither. 
+You might be a typical investor with a typical risk-averse profile. In that case, you would be just as willing to buy an option as to sell one, and so you may as well do neither. However, diversification is an alternative means by which to reduce risk. 
 
-However, diversification is an alternative means by which to reduce risk. The options market may be viewed as one tangible way to monetize the effort and capital required to diversify your financial portfolio.
+The options market may be viewed as one tangible way to monetize the effort and capital required to diversify your financial portfolio.
