@@ -24,7 +24,7 @@ For instance, margin regulations prevent brokers from offering more than 2x leve
 
 Similarly, retail investors typically do not have easy access to short trades. The demand for put options is thus artificially inflated.
 
-### Valuing diversification
+### Monetizing diversification
 
 You might be a typical investor with a typical risk-averse profile. In that case, you would be just as willing to buy an option as to sell one, and so you may as well do neither. However, diversification is an alternative means by which to reduce risk. 
 
