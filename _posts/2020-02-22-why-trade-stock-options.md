@@ -18,7 +18,7 @@ A second often-cited metaphor is that the options market is an insurance market,
 
 ### Market inefficiences
 
-In an ideal market, money would be lent freely: Traders should be able to access as much capital as they wish. However, this is not the case.
+In an ideal market, money would be lent freely: Traders would be able to access as much capital as they wish. However, this is not the case.
 
 For instance, margin regulations prevent brokers from allowing more than 2x leverage. As a result, traders are pushed toward options markets as the only means to leverage beyond a certain level. This crowds the options market and raises contract prices.
 
