@@ -22,7 +22,7 @@ In an ideal market, money would be lent freely: Traders would be able to access 
 
 For instance, margin regulations prevent brokers from offering more than 2x leverage. As a result, traders are pushed toward options markets as the only means to leverage beyond a certain level. This crowds the options market and raises contract prices.
 
-Similarly, retail investors typically do not have easy access to short trades. The supply of put options is thus artificially squeezed.
+Similarly, retail investors typically do not have easy access to short trades. The demand for put options is thus artificially inflated.
 
 ### Valuing diversification
 
