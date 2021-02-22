@@ -20,7 +20,7 @@ A second often-cited metaphor is that the options market is an insurance market,
 
 In an ideal market, money should be lent freely: Traders should be able to access as much capital as they wish. However, this is not the case.
 
-For instance, margin regulations prevent brokers from allowing leverage more than 2x. As a result, traders are pushed toward options markets as the only means to leverage beyond a certain level. This crowds the options market and raises contract prices.
+For instance, margin regulations prevent brokers from allowing more than 2x leverage. As a result, traders are pushed toward options markets as the only means to leverage beyond a certain level. This crowds the options market and raises contract prices.
 
 Similarly, retail investors typically do not have easy access to short trades. The supply of put options is thus artificially squeezed.
 
