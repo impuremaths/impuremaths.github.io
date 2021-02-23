@@ -4,8 +4,8 @@ title: "Why trade stock options?"
 
 I can think of three reasons to trade stock options:
 
-1. To exploit psychological inefficiencies, including rare-event overestimation and risk non-neutrality,
-2. To exploit inefficiencies in accepted market regulations, including lending requirements and short-inaccessibility,
+1. To exploit psychological inefficiencies (rare-event overestimation and risk non-neutrality),
+2. To exploit inefficiencies in accepted market regulations (margin requirements and short-inaccessibility),
 3. To tangibly monetize diversification.
 
 ### Psychological inefficiencies
