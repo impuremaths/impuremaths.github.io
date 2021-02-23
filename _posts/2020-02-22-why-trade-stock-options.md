@@ -20,7 +20,7 @@ In principle, options contracts should be priced at their expected value. Howeve
 
 One often-cited metaphor is that the options market is a casino, where sellers collectively form the house, while buyers form the gamblers. This is what I refer to as rare-event overestimation: Gamblers typically overestimate the likelihood of hitting jackpots, and will overpay for options contracts.
 
-A second often-cited metaphor is that the options market is an insurance market, which exists due to risk non-neutrality, and typically, risk aversion. Since most investors are presumed to be risk-averse, they likely are willing to overpay for options contracts which reduce their risk, independent of the expected value of the contract.
+A second often-cited metaphor is that the options market is an insurance market, which exists due to risk non-neutrality. Since most investors are presumed to be risk-averse, they likely are willing to overpay for options contracts which reduce their risk, independent of the expected value of the contract.
 
 ### Market inefficiences
 
