@@ -23,7 +23,7 @@
 			</span>
 		</div>
 						
-		<ul id="postlist" style="overflow:auto;">
+		<ul class="ulsidebar" id="postlist" style="overflow:auto;">
 			{% for post in site.posts %}					
 				{% if page.title == post.title %}	
 					<li id="specialPost" style="background-color:#f4f4f4"><span class="date-format">{{ post.date | date: "%B %-d, %Y" }}</span><br>
