@@ -44,7 +44,7 @@ More precisely, the value of an option can be decomposed into:
 
 A visualization of the intrinsic and extrensic value of an option:
 
-<PICTURE GOES HERE>
+> TODO: PICTURE GOES HERE
 
 There are three factors that change the value of an option:
 - the price of the underlying stock, which changes the intrinsic value of the option.
