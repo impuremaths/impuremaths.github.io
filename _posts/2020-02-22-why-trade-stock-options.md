@@ -34,6 +34,6 @@ Similarly, retail investors typically do not have easy access to short trades. T
 
 ### Monetizing diversification
 
-You might be a typical investor with a typical risk-averse profile. In that case, you would be just as willing to buy an option as to sell one, and so you may as well do neither: The premium over expected value, as decided by the market, should be a fair valuation of the risk carried by the contract. However, diversification is an alternative means by which to reduce risk. 
+You might be a typical investor with a typical risk-averse profile. In that case, you would be just as willing to buy an option as to sell one, and so you may as well do neither: The premium over expected value, as decided by the market, should be a fair valuation of the risk carried by the contract. However, there are other ways to reduce risk that don't involve paying someone a premium - namely, diversification. 
 
 The options market may be viewed as a way to monetize excess de-risking, for those who have the necessary capital and are willing to expend the effort. (The fact that effective diversification requires large amounts of capital is another manifestation of a market inefficiency, though this is less pronounced as brokerages begin to offer fractional shares.)
