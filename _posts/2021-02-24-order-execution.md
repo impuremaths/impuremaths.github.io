@@ -10,7 +10,7 @@ title: "Order execution, market makers, and payment for order flow"
 
 Trading stocks is a relatively seamless experience due to high liquidity. You can essentially buy or sell at the quoted price at any time during market hours. 
 
-Options markets have much lower liquidity, and so it's important to understand what's going on underneath. It's also important to understand order execution when placing large stock orders.
+Options markets have much lower liquidity, and so it's important to understand what's going on under the hood. It's also important to understand order execution when placing large stock orders.
 
 Note: I am not an expert, and the internet contains a lot of soft, incomplete, and incorrect information on this topic. I want to start filling in the gaps, but there is still much to understand. More is to be said in future posts as more information comes to light. Maybe my co-writer can help answer some of the unanswered questions below!
 
