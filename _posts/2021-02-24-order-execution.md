@@ -33,7 +33,7 @@ Does this price have to match or beat the best selling price on the exchange, as
 
 ### Payment for order flow
 
-Which brings us to payment for order flow, which is what it sounds like: When a market maker pays the broker a cut if they choose to route their customers' orders to them. This sounds a lot like collusion between the broker and the market maker, to overcharge customers for stock purchases, and to undercompensate them for stock sales. 
+This brings us to payment for order flow, which is what it sounds like: When a market maker pays the broker a cut if they choose to route their customers' orders to them. This sounds a lot like collusion between the broker and the market maker, to overcharge customers for stock purchases, and to undercompensate them for stock sales. 
 
 I was unable to find a good secondary source explaining regulation that protects customers from this practice. Is the situation as dire as it sounds?
 
