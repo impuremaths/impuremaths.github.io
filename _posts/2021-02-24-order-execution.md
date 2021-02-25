@@ -39,7 +39,7 @@ I was unable to find a good secondary source explaining regulation that protects
 
 ### More questions
 
-Here are more subtle questions that are harder to research:
+Here are more subtle open questions that I have found harder to research:
 
 1. How are retail limit orders routed?
 2. Options trades have extremely low liquidity. Exchange-wide bids and asks seem to be visible from publicly available data. Are market makers involved?
