@@ -37,7 +37,7 @@ Which brings us to payment for order flow, which is what it sounds like: When a 
 
 I was unable to find a good secondary source explaining regulation that protects customers from this practice. Is the situation as dire as it sounds?
 
-### More questions
+### Open questions
 
 Here are more subtle open questions that I have found harder to research:
 
