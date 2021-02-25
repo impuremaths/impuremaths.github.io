@@ -5,7 +5,7 @@ title: "Order execution, market makers, and payment for order flow"
 <div class="media">
   <p>Nobody should believe that Robinhood's trades are free.</p>
   
-  <p> Charlie Munger (February 24, 2021)
+  <p> Charlie Munger (February 24, 2021)</p>
 </div>
 
 Trading stocks is a relatively seamless experience due to high liquidity. You can essentially buy or sell at the quoted price at any time during market hours. 
