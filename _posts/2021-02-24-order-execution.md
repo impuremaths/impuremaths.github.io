@@ -37,7 +37,7 @@ Which brings us to payment for order flow, which is what it sounds like: When a 
 
 I was unable to find a good secondary source explaining regulation that protects customers from this practice. Is the situation as dire as it sounds?
 
-My guess is that there is still some competition among market makers - not to mention competition among brokers. For instance, Charles Schwab has a good reputation; it would be devestating to the company if someone to uncovered impropriety in its trade execution.
+My guess is that there is still some competition among market makers - not to mention competition among brokers. For instance, Charles Schwab has a good reputation; it would be devestating to the company if someone - either the SEC or an attentive retail customer - uncovered impropriety in its trade execution.
 
 ### Open questions
 
