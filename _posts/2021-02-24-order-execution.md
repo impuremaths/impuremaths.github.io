@@ -37,7 +37,9 @@ This brings us to payment for order flow, which is what it sounds like: When a m
 
 I was unable to find a good secondary source explaining regulation that protects customers from this practice. Is the situation as dire as it sounds?
 
-My guess is that there is still some competition among market makers - not to mention competition among brokers. For instance, Charles Schwab has a good reputation; it would be devestating to the company if someone - either the SEC or an attentive retail customer - uncovered impropriety in its trade execution.
+My understanding is that there is still some competition among market makers - not to mention competition among brokers. For instance, Charles Schwab has a good reputation; it would be devestating to the company if someone - either the SEC or an attentive retail customer - uncovered impropriety in its trade execution.
+
+However, my other understanding is that regulators are willing to overlook such impropriety however, if the surcharge is on the order of pennies per transaction. As a result, it would behoove customers with larger accounts to research brokers' execution practices before settling with one.
 
 ### Open questions
 
