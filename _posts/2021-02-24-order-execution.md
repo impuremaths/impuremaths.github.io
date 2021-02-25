@@ -1,5 +1,5 @@
 ---
-title: "Order execution, market makers, and payment for order flow"
+title: "Order execution: Market makers and payment for order flow"
 ---
 
 <div class="media">
