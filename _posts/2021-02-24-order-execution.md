@@ -29,13 +29,15 @@ In an ideal exchange, the broker would direct a retail customer's order, say a m
 
 For whatever reason - I could not find a satisfactory answer online - the above system either does not exist or is not mandated. Instead, most online brokers direct stock trades to a market maker, which is essentially just a large trader which is obligated by regulation to have both buy and sell orders open at all times. This market maker gets to fill the order, at whichever price it happens to have quoted for the stock in advance. 
 
-Does this price have to match or beat the best selling price on the exchange, as described above? This is where things get murky, and I was uanble to find an answer; I assume the answer is no. In that case, what prevents the market maker from quoting a ludcrious price, like a gazillion dollars? My guess is that there is still some competition among market makers - not to mention competition among brokers. For instance, Charles Schwab has a good reputation; it would be devestating to the company if someone to uncovered impropriety in its trade execution.
+Does this price have to match or beat the best selling price on the exchange, as described above? This is where things get murky, and I was uanble to find an answer; I assume the answer is no. In that case, what prevents the market maker from quoting a ludcrious price, like a gazillion dollars?
 
 ### Payment for order flow
 
 Which brings us to payment for order flow, which is what it sounds like: When a market maker pays the broker a cut if they choose to route their customers' orders to them. This sounds a lot like collusion between the broker and the market maker, to overcharge customers for stock purchases, and to undercompensate them for stock sales. 
 
 I was unable to find a good secondary source explaining regulation that protects customers from this practice. Is the situation as dire as it sounds?
+
+My guess is that there is still some competition among market makers - not to mention competition among brokers. For instance, Charles Schwab has a good reputation; it would be devestating to the company if someone to uncovered impropriety in its trade execution.
 
 ### Open questions
 
