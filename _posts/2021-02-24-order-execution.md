@@ -18,7 +18,7 @@ Note: I am not an expert, and the internet contains a lot of soft, incomplete, a
 
 First, we need to understand the main parties involved in each stock transaction:
 
-1. The price taker, typically a retail buyer or seller.
+1. The price taker, typically a retail trader.
 2. The broker, which links the retail trader with the market.
 4. The market maker, a large firm which is obligated to have buy and sell orders open at all times during market hours.
 5. The stock exchange itself.
