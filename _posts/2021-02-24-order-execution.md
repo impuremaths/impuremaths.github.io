@@ -12,7 +12,7 @@ Trading stocks is a relatively seamless experience due to high liquidity. You ca
 
 Options markets have much lower liquidity, and so it's important to understand what's going on under the hood. It's also important to understand order execution when placing large stock orders.
 
-Note: I am not an expert, and the internet contains a lot of vague, incomplete, and incorrect information on this topic. This post inaugurates a series of posts with the goal of filling in the gaps.
+Note: I am not an expert, and the internet contains a lot of vague, incomplete, and incorrect information on this topic. This post inaugurates a series of posts with the goal of filling in the gaps. Some questions below will be left unanswered, hopefully to be studied in depth in future posts.
 
 ### The cast
 
