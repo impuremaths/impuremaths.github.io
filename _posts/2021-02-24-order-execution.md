@@ -8,11 +8,11 @@ title: "Order execution: Market makers and payment for order flow"
   <p>- Charlie Munger (February 24, 2021)</p>
 </div>
 
-Trading stocks is a relatively seamless experience due to high liquidity. You can essentially buy or sell at the quoted price at any time during market hours. 
+Trading stocks is a relatively seamless experience due to high liquidity. You can essentially buy or sell a stock at its quoted price at any time during market hours. 
 
 Options markets have much lower liquidity, and so it's important to understand what's going on under the hood. It's also important to understand order execution when placing large stock orders.
 
-Note: I am not an expert, and the internet contains a lot of soft, incomplete, and incorrect information on this topic. I want to start filling in the gaps, but there is still much to understand. More is to be said in future posts as more information comes to light. Maybe my co-writer can help answer some of the unanswered questions below!
+Note: I am not an expert, and the internet contains a lot of vague, incomplete, and incorrect information on this topic. This post inaugurates a series of posts with the goal of filling in the gaps.
 
 ### The cast
 
