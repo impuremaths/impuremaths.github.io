@@ -48,3 +48,4 @@ Here are more subtle open questions that I have found harder to research:
 1. How are retail limit orders routed?
 2. Options trades have extremely low liquidity. Exchange-wide bids and asks seem to be visible from publicly available data. Are market makers involved?
 
+We'll address these and other open questions in future posts.
