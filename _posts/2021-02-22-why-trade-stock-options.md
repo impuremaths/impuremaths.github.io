@@ -32,6 +32,8 @@ For instance, margin regulations prevent brokers from offering more than 2x leve
 
 Similarly, retail investors typically do not have easy access to short trades. The demand for put options is thus artificially inflated.
 
+On the flip side, traders wishing to capitalize on the inefficiences pointed out so far cannot do so freely: Regulations require that sold options be backed by substantial amounts of capital. This artificially deflates the supply of options contracts.
+
 ### Monetizing diversification
 
 You might be a typical investor with a typical risk-averse profile. In that case, you would be just as willing to buy an option as to sell one, and so you may as well do neither: The premium over expected value, as decided by the market, should be a fair valuation of the risk carried by the contract. However, there are other ways to reduce risk that don't involve paying someone a premium - namely, diversification. 
