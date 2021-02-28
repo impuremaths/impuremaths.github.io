@@ -1,5 +1,5 @@
 ---
-title: "Order execution II: Market makers and price improvement"
+title: "Order execution II: Price improvement"
 ---
 
 We continue our series on [order execution]({{ "" | relative_url }}{% post_url 2021-02-24-order-execution %}). In this post, we take a turn and discuss some arguments in favor of market makers.
