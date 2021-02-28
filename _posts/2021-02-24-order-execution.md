@@ -35,7 +35,7 @@ Does this price have to match or beat the best selling price on the exchange, as
 
 This brings us to payment for order flow, which is what it sounds like: Market makers typically pay brokers a cut if they choose to route their customers' orders to them. This sounds a lot like collusion between the broker and the market maker, to overcharge customers for stock purchases, and to undercompensate them for stock sales. 
 
-I was unable to find a good secondary source explaining regulation that protects customers from mispricing. Is the situation as dire as it sounds?
+I was unable to find a good secondary source explaining regulation that protects customers from such mispricing. Is the situation as dire as it sounds?
 
 My understanding is that there is still some competition among market makers - not to mention competition among brokers. For instance, Charles Schwab has a good reputation; it would be devestating to the company if someone - either the SEC or an attentive retail customer - uncovered impropriety in its trade execution.
 
