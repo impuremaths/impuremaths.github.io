@@ -31,7 +31,7 @@ For whatever reason - I have not yet found a satisfactory answer online - the ab
 
 Does this price have to match or beat the best selling price on the exchange, as described above? This is where things get murky, and the answer gets complicated. Roughly speaking, the answer is some form of no: It is accepted practice for market makers to buy low and sell high. The difference is euphemistically known as that market maker's _bid-ask spread_. In that case, what prevents the market maker from quoting ludcrious spreads, like a gazillion dollars on sales and pennies on purchases?
 
-One obvious answer is that orders with ludicrous spreads would simply appear on the exchange and never get filled. The market maker would be wasting its time and capital. 
+One obvious answer is that orders with ludicrous spreads would simply appear on the exchange and never get filled (by any party, broker or otherwise). The market maker would be wasting its time and capital. 
 
 ### Payment for order flow
 
