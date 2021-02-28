@@ -26,7 +26,7 @@ You could argue that this distinction is only theoretical: It's probable that in
 
 Of course, the broker still has discretion on how to allocate between price improvement and payment for order flow - how much of the fruits of their negotiating power trickles down to the individual union member, so to speak. Inter-brokerage competition in this arena may be simply viewed as the next battle in the war over retail commissions.
 
-Food for thought: There is a potential _advantage_ for larger retail traders to trade on Robinhood, for the same reason that market makers value Robinhood order flow highly: Robinhood order flow is a sum of many small, independent orders. There is a lot of price improvement to be collected within the Robinhood ecosystem, and shared between the market maker, Robinhood, and retailers. At the moment, Robinhood doesn't seem to offer good price improvement, but as inter-brokerage competition increases, this may change.
+Food for thought: There is a potential _advantage_ for larger retail traders to trade on Robinhood, for the same reason that market makers value Robinhood order flow highly: Robinhood order flow is a sum of many small, independent orders. There is a lot of price improvement to be collected within such an ecosystem, and shared between the market maker, Robinhood, and retailers. At the moment, Robinhood doesn't seem to offer good price improvement, but as inter-brokerage competition increases, this may change.
 
 
 ### References and further reading
