@@ -20,9 +20,9 @@ At the minimum, brokers must serve their customers with the NBBO quotes. This is
 
 ### Implications
 
-What does this mean for the retail trader? To my mind, the current system is not a bad one for the retail trader. The removal of market makers from the system would put retail traders in competition with high frequency trading firms, which unlike market makers, trade on information, not just scale. 
+What does this mean for the retail trader? To my mind, the current system is not a terrible one for the retail trader. The removal of market makers from the system would put retail traders in competition with HFT firms, which unlike market makers, trade on information, not just scale. 
 
-It's probable that market makers also try to act on early information, but at least the market maker designation regulates them a little. Further, the system of price improvement and payment for order flow may be viewed as healthy competition between HFT and market maker firms. In other words, a market maker which does price improvement may be viewed as an HFT firm which is returning its profits to is customers to maintain loyalty, indicative of an efficient and competitive industry. Brokers may essentially be viewed as negotiating units for retailers, who otherwise would be powerless against HFT firms.
+You could argue that this distinction is only a theoretical one: It's probable that market makers also serve as HFT firms and seek to act on early information. But actually, the system of price improvement and payment for order flow may be viewed as healthy competition between HFT firms. In other words, a market maker which offers price improvement may be viewed as an HFT firm which is returning its profits to is customers to maintain loyalty, indicative of an efficient and competitive industry. Brokers may essentially be viewed as negotiating units for retailers, who otherwise would be powerless against HFT firms.
 
 Of course, the broker still has discretion on how to allocate between price improvement and payment for order flow - how much of the fruits of their negotiating power trickles down to the retail customer. Inter-brokerage competition in this arena may be simply viewed as the next battle in the war over retail commissions.
 
