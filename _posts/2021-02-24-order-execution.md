@@ -27,9 +27,9 @@ First, we need to understand the main parties involved in each stock transaction
 
 In an ideal exchange, the broker would direct a retail customer's order, say a market-buy order, to a central stock exchange. The stock exchange would have a list of existing limit-sell orders. The highest limit-sell order would be scooped up, and paired with the market-buy order. The transaction would close.
 
-For whatever reason - I could not find a satisfactory answer online - the above system either does not exist or is not mandated. Instead, most online brokers direct stock trades to a market maker, which is essentially just a large trader who is obligated by regulation to have both buy and sell orders open at all times. This market maker gets to fill the order, at whichever price it happens to have quoted for the stock in advance. Note that it is accepted practice for market makers to buy low and sell high. The difference is known as that market maker's _bid-ask spread_.
+For whatever reason - I could not find a satisfactory answer online - the above system either does not exist, does not work, or is not mandated. Instead, most online brokers direct stock trades to a market maker, which is essentially just a large trader who is obligated by regulation to have both buy and sell orders open at all times. This market maker gets to fill the order, at whichever price it happens to have quoted for the stock in advance. 
 
-Does this price have to match or beat the best selling price on the exchange, as described above? This is where things get murky, and the answer gets complicated. Roughly speaking, the answer is some form of "no." In that case, what prevents the market maker from quoting ludcrious prices, like a gazillion dollars on sales and pennies on purchases?
+Does this price have to match or beat the best selling price on the exchange, as described above? This is where things get murky, and the answer gets complicated. Roughly speaking, the answer is some form of no: It is accepted practice for market makers to buy low and sell high. The difference is euphemistically known as that market maker's _bid-ask spread_. In that case, what prevents the market maker from quoting ludcrious spreads, like a gazillion dollars on sales and pennies on purchases?
 
 ### Payment for order flow
 
@@ -37,7 +37,7 @@ This brings us to payment for order flow, which is what it sounds like: Market m
 
 My understanding is that there is still some competition among market makers - not to mention competition among brokers. For instance, Charles Schwab has a good reputation; it would be devestating to the company if someone - either the SEC or an attentive retail customer - uncovered impropriety in its trade execution.
 
-However, my other understanding is that regulators are willing to overlook such impropriety, if the overcharge is on the order of pennies or basis points. As a result, it would behoove customers with larger accounts to research brokers' execution practices before settling with one.
+However, my other understanding is that regulators are willing to overlook such impropriety, if the overcharge (via the bid-ask spread) is on the order of pennies or basis points. As a result, it would behoove customers with larger accounts to research brokers' execution practices before settling with one.
 
 ### Open questions
 
