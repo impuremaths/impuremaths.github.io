@@ -29,13 +29,11 @@ In an ideal exchange, the broker would direct a retail customer's order, say a m
 
 For whatever reason - I could not find a satisfactory answer online - the above system either does not exist or is not mandated. Instead, most online brokers direct stock trades to a market maker, which is essentially just a large trader who is obligated by regulation to have both buy and sell orders open at all times. This market maker gets to fill the order, at whichever price it happens to have quoted for the stock in advance. Note that it is accepted practice for market makers to buy low and sell high. The difference is known as that market maker's _bid-ask spread_.
 
-Does this price have to match or beat the best selling price on the exchange, as described above? This is where things get murky, and I was unable to find an answer; I assume the answer is no. In that case, what prevents the market maker from quoting ludcrious prices, like a gazillion dollars on sales and pennies on purchases?
+Does this price have to match or beat the best selling price on the exchange, as described above? This is where things get murky, and the answer gets complicated. Roughly speaking, the answer is some form of "no." In that case, what prevents the market maker from quoting ludcrious prices, like a gazillion dollars on sales and pennies on purchases?
 
 ### Payment for order flow
 
-This brings us to payment for order flow, which is what it sounds like: Market makers typically pay brokers a cut if they choose to route their customers' orders to them. This sounds a lot like collusion between the broker and the market maker, to overcharge customers for stock purchases, and to undercompensate them for stock sales. 
-
-I was unable to find a good secondary source explaining regulation that protects customers from such mispricing. Is the situation as dire as it sounds?
+This brings us to payment for order flow, which is what it sounds like: Market makers typically pay brokers a cut if they choose to route their customers' orders to them. This sounds a lot like collusion between the broker and the market maker, to overcharge customers for stock purchases, and to undercompensate them for stock sales. Is the situation as dire as it sounds?
 
 My understanding is that there is still some competition among market makers - not to mention competition among brokers. For instance, Charles Schwab has a good reputation; it would be devestating to the company if someone - either the SEC or an attentive retail customer - uncovered impropriety in its trade execution.
 
