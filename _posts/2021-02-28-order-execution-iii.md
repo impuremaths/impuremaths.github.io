@@ -31,6 +31,6 @@ Food for thought: There is a potential _advantage_ for larger retail traders to 
 
 ### References and further reading
 
-Here is one of the more thorough and balanced articles I found on the subject of payment for order flow, price improvement, best execution, market makers, and high frequency trading: https://a16z.com/2021/02/17/payment-for-order-flow/
+[Here](https://a16z.com/2021/02/17/payment-for-order-flow/) is one of the more thorough and balanced articles I found on the subject of payment for order flow, price improvement, best execution, market makers, and high frequency trading.
 
-Here is another article that is pretty informative and less bullish on the whole system: https://www.warriortrading.com/payment-for-order-flow/
+[Here](https://www.warriortrading.com/payment-for-order-flow/) is another article that is pretty informative and less bullish on the whole system.
