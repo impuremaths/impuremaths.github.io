@@ -10,7 +10,7 @@ Recall that in [Part I]({{ "" | relative_url }}{% post_url 2021-02-24-order-exec
 
 However, there exists an argument that the market maker infrastructure can actually benefit retail investors.
 
-The argument essentially suggests that there are three tiers of traders, each with less insider knowledge than the next:
+The argument is founded on the premise that there are essentially three tiers of traders, each with less insider knowledge than the next:
 
 1. Retail traders, 
 2. Market makers,
