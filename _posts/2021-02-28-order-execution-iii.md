@@ -20,7 +20,7 @@ At the minimum, brokers must serve their customers with the NBBO quotes. This is
 
 ### Implications
 
-What does this mean for the retail trader? To my mind, the current system is not a terrible one for the retail trader. The removal of market makers from the system would put retail traders in competition with HFT firms, which unlike market makers, trade on information, not just scale. 
+To my mind, the current system is not a terrible one for the retail trader. The removal of market makers from the system would put retail traders in direct competition with HFT firms, which unlike market makers, trade on information, not just scale. 
 
 You could argue that this distinction is only a theoretical one: It's probable that market makers also serve as HFT firms and seek to act on early information. But actually, the system of price improvement and payment for order flow may be viewed as healthy competition between HFT firms. In other words, a market maker which offers price improvement may be viewed as an HFT firm which is returning its profits to is customers to maintain loyalty, indicative of an efficient and competitive industry. Brokers may essentially be viewed as negotiating units for retailers, who otherwise would be powerless against HFT firms.
 
