@@ -2,11 +2,11 @@
 title: "Order execution II: Market makers and price improvement"
 ---
 
-We continue our series on [order execution]({{ "" | relative_url }}{% post_url 2020-02-24-order-execution %}). In this post, we take a turn and discuss some arguments in favor of market makers.
+We continue our series on [order execution]({{ "" | relative_url }}{% post_url 2020-02-24-order-execution.md %}). In this post, we take a turn and discuss some arguments in favor of market makers.
 
 ### Price improvement
 
-Recall that in [Part I]({{ "" | relative_url }}{% post_url 2020-02-24-order-execution %}), the situation regarding market makers seemed pretty bleak: The system seemed to essentially be one where brokers and market makers colluded to stiff retail customers. The only thing protecting retailer traders was essentially competition among brokers and market makers (as well as some transparency regulations barely enforced by the SEC). Such protection requires a well-informed retail customer base, which is dubious.
+Recall that in [Part I]({{ "" | relative_url }}{% post_url 2020-02-24-order-execution.md %}), the situation regarding market makers seemed pretty bleak: The system seemed to essentially be one where brokers and market makers colluded to stiff retail customers. The only thing protecting retailer traders was essentially competition among brokers and market makers (as well as some transparency regulations barely enforced by the SEC). Such protection requires a well-informed retail customer base, which is dubious.
 
 However, there exists an argument that market makers can actually benefit retail investors.
 
