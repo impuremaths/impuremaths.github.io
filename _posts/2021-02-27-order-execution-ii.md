@@ -16,7 +16,7 @@ The argument is founded on the premise that there are essentially three tiers of
 2. Market makers,
 3. Hedge funds, banks, and insiders.
 
-The argument is that as a result, there should essentially be two exchanges: One pseudo-exchange in which the retailers and market makers participate, and an actual exchange, in which the market makers and insiders participate. This offers retailers a thin layer of protection from the insiders.
+The argument is that as a result, there should essentially be two exchanges: An actual exchange, in which the market makers and insiders participate, and a pseudo-exchange, in which retailers and market makers participate. This offers retailers a thin layer of protection from the insiders.
 
 ### Price improvement
 
