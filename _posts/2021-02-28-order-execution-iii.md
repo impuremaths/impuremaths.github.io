@@ -12,7 +12,7 @@ When you research the price and volume of AAPL stock from publicly available dat
 
 The answer lies in the _National Best Bid and Offer_, or the NBBO. It turns out that hypothetical [best offer price]({{ "" | relative_url }}{% post_url 2021-02-24-order-execution %}) that I dreamed up in Part I actually exists and is officially regulated, tracked, and published via the NBBO. The data used to compute the NBBO includes all official exchanges and market makers. (Secret exchanges known as _dark pools_ are naturally excluded; these typically consist of exchanges by large funds which hope to avoid moving markets with their activity.)
 
-The official NBBO is computed and reported by an entity known as the Consolidated Tape Association via a Securities Information Processor (I believe the CTA is the institution, while the SIP is the technology). The official SIP does a reasonable job reporting accurate data, but does not put too much of an effort on speed. Private high frequency trading (HFT) firms exploit this by essentially managing faster SIPs than the CTA. They can thus predict the future by a few microseconds and profit accordingly.
+The official NBBO is computed and reported by an entity known as the Consolidated Tape Association via a Securities Information Processor (I believe the CTA is the institution, while the SIP is the technology). The official SIP does a reasonable job reporting accurate data, but does not put too much of an effort on speed. Private high frequency trading (HFT) firms exploit this by essentially managing faster SIPs than the CTA. They can predict the future by a few microseconds and profit accordingly.
 
 ### Best execution
 
