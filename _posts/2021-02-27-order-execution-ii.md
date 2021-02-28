@@ -8,7 +8,7 @@ We continue our series on [order execution]({{ "" | relative_url }}{% post_url 2
 
 Recall that in [Part I]({{ "" | relative_url }}{% post_url 2021-02-24-order-execution %}), the situation regarding market makers seemed pretty bleak: The system seemed to be one where brokers and market makers colluded to stiff retail customers. The only thing protecting retailer traders was essentially competition among brokers and market makers (as well as some transparency regulations barely enforced by the SEC). Such protection requires a well-informed retail customer base, which is dubious.
 
-However, there exists an argument that market makers can actually benefit retail investors.
+However, there exists an argument that the market maker infrastructure can actually benefit retail investors.
 
 The argument essentially suggests that there are three tiers of traders, each with less insider knowledge than the next:
 
