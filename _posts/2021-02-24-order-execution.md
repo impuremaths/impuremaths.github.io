@@ -31,13 +31,15 @@ For whatever reason - I have not yet found a satisfactory answer online - the ab
 
 Does this price have to match or beat the best selling price on the exchange, as described above? This is where things get murky, and the answer gets complicated. Roughly speaking, the answer is some form of no: It is accepted practice for market makers to buy low and sell high. The difference is euphemistically known as that market maker's _bid-ask spread_. In that case, what prevents the market maker from quoting ludcrious spreads, like a gazillion dollars on sales and pennies on purchases?
 
+One obvious answer is that orders with ludicrous spreads would simply appear on the exchange and never get filled. The market maker would be wasting its time and capital. 
+
 ### Payment for order flow
 
-This brings us to payment for order flow, which is what it sounds like: Market makers typically pay brokers a cut if they choose to route their customers' orders to them. This sounds a lot like collusion between the broker and the market maker, to overcharge customers for stock purchases, and to undercompensate them for stock sales. Is the situation as dire as it sounds?
+However, this brings us to payment for order flow, which is what it sounds like: Market makers typically pay brokers a cut if they choose to route their customers' orders to them. This sounds a lot like collusion between the broker and the market maker, to overcharge customers for stock purchases, and to undercompensate them for stock sales. Is the situation as dire as it sounds?
 
-My understanding is that there is still some competition among market makers - not to mention competition among brokers. For instance, Charles Schwab has a good reputation; it would be devestating to the company if someone - either the SEC or an attentive retail customer - uncovered impropriety in its trade execution.
+My understanding is that there is still some competition among market makers and brokers. For instance, Charles Schwab has a good reputation; it would be devestating to the company if someone - either the SEC or an attentive retail customer - uncovered impropriety in its trade execution.
 
-However, my other understanding is that regulators are willing to overlook such impropriety, if the overcharge (via the bid-ask spread) is on the order of pennies or basis points. As a result, it would behoove customers with larger accounts to research brokers' execution practices before settling with one.
+However, my other understanding is that regulators and customers are willing to overlook such impropriety, if the overcharge (via the bid-ask spread) is on the order of pennies or basis points. As a result, it would behoove customers with larger accounts to research brokers' execution practices before settling with one.
 
 ### Open questions
 
