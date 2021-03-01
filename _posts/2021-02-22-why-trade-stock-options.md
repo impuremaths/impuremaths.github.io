@@ -32,7 +32,7 @@ For instance, margin regulations prevent brokers from offering more than 2x leve
 
 Similarly, retail investors typically do not have easy access to short trades. The demand for put options is thus artificially inflated.
 
-On the flip side, traders wishing to capitalize on the inefficiences pointed out so far cannot do so freely: Regulations require that short options be backed by large amounts of capital, which most investors do not have and are prevented from borrowing. This artificially deflates the supply of options contracts.
+On the flip side, traders wishing to capitalize on the inefficiences pointed out so far cannot do so freely: Regulations require that short options be backed by large amounts of capital, which most investors do not have and are prevented from borrowing. This artificially suppresses the supply of options contracts.
 
 ### Monetizing diversification
 
