@@ -89,7 +89,7 @@ for (let i = 0; i < list.length; i++) {
 	if (match && match[2].length == 11) {
 		ytString[i] = match[2];
 		holder[i] = document.createElement("div");
-		if (list[i].nextSibling) list[i].nextSibling.parentNode.insertBefore(holder[i], list[i]);
+		if (list[i].nextSibling) list[i].nextSibling.parentNode.insertBefore(holder[i], list[i].nextSibling);
 		else list[i].parentNode.appendChild(holder[i]);
 		
 		holder[i].appendChild(make("br"));		
