@@ -30,7 +30,7 @@ One has almost a 50% chance of ending poorly, while the other has a vanishingly 
 Diversify. Keep in mind that there are many ways to diversify, and all should be used. Here is a list:
 
 1. Trade in many different stocks.
-2. Have both bullish and bearish trades.
+2. Open both bullish and bearish trades.
 3. Sell options with many different expirations.
 4. Place your orders at different times, rather than all at once.
 
