@@ -1,5 +1,5 @@
 ---
-title: "Trading strategy: Guiding principles"
+title: "Trading options: Guiding principles"
 ---
 
 In this post we discuss three principles of trading which everyone knows but which everyone under-implements:
