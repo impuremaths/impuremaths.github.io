@@ -27,7 +27,7 @@ One has almost a 50% chance of ending poorly, while the other has a vanishingly 
 
 ### Diversification
 
-Diversify in as many ways as possible. Keep in mind that there are many ways to diversify, and all should be used. Here is a list:
+Diversify. Keep in mind that there are many ways to diversify, and all should be used. Here is a list:
 
 1. Trade in many different stocks.
 2. Have both bullish and bearish trades.
