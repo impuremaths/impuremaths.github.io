@@ -38,4 +38,4 @@ Diversify. Keep in mind that there are many ways to diversify, and all should be
 
 There are many different stocks, most of which remain listed for many years. You are not compelled to trade any one of them, at any particular time. You should use this freedom to your advantage: Save your aggressive trading for when you see blatant inefficiencies.
 
-Food for thought: Stock pickers should _research_; options traders should _explore_. Stock picking profits from private information and knowledge; options trading profits from public fear and exuberance.
+Food for thought: Stock pickers should _research_; options traders should _explore_. Stock picking profits from _private_ information and knowledge. Options trading profits from _public_ fear and exuberance.
