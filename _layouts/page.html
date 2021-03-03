@@ -92,7 +92,7 @@ for (let i = 0; i < list.length; i++) {
 		if (list[i].nextElementSibling) list[i].nextElementSibling.parentNode.insertBefore(holder[i], list[i].nextElementSibling);
 		else list[i].parentNode.appendChild(holder[i]);
 		
-		holder[i].appendChild(make("br"));		
+		// holder[i].appendChild(make("br"));		
 		let myPreBut = make("button");
 		myPreBut.textContent = "Embedded player";
 		let placeHolder = make("div");		
