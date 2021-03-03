@@ -23,7 +23,7 @@ For example, in the setting of selling puts, using all of your capital is the di
 1. selling a single at-the-money put, and 
 2. selling several deep out-of-the-money puts on a diverse collection of underlying stocks.
 
-One has almost a 50% chance of ending poorly, while the other has a very small chance ending poorly.
+One has almost a 50% chance of ending poorly, while the other has a very small chance of ending poorly.
 
 ### Diversification
 
