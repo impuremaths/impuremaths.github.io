@@ -22,7 +22,7 @@ The argument is that as a result, there should essentially be two exchanges: An 
 
 In (theoretical) practice, this would work as follows: 
 
-Market makers profit from bid-ask spreads and the law of large numbers, rather than insider information. As a result, on exchanges where large insiders participate, where orders are large, uneven, and contaminated by "cheaters" with insider knowledge, it behooves them to tread cautiously, which translates into quoting wider spreads. I am reminded of [this scene](https://www.youtube.com/watch?v=kyMxi0y5j-o) from _Schindler's List_:
+Market makers profit from bid-ask spreads and the law of large numbers, rather than insider information. As a result, on exchanges where large insiders participate, where orders are large, uneven, and contaminated by "cheaters" with insider knowledge, it behooves them to tread cautiously, which translates into quoting wider spreads. I am reminded of [this scene](https://www.youtube.com/watch?v=kyMxi0y5j-o) from Schindler's List:
 
 In contrast, on "exchanges" (meaning, a stream of orders from brokerages) where only retailers participate, there is low risk of contamination by insider information. Further, the law of large numbers takes effect very efficiently due to many independent small participants. Market makers can thus reduce their bid-ask spreads while maintaining profitability, while retailers enjoy slightly better executions. A portion of the price improvement is passed on to the retailer; this is known unimaginatively as _price improvement_. The remainder is passed on to the broker as the typical source of [payment for order flow]({{ "" | relative_url }}{% post_url 2021-02-24-order-execution %}).
 
