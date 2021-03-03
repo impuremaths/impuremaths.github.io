@@ -39,7 +39,7 @@ However, this brings us to payment for order flow: Market makers typically pay b
 
 My understanding is that there is still some competition among market makers and brokers. For instance, Charles Schwab has a good reputation; it would be devestating to the company if someone - either the SEC or an attentive retail customer - uncovered impropriety in its trade execution.
 
-However, my other understanding is that regulators and customers are willing to overlook such impropriety, if the overcharge (via the bid-ask spread) is on the order of pennies or basis points. As a result, it would behoove customers with larger accounts to research brokers' execution practices before settling with one.
+However, my other understanding is that regulators and customers are willing to overlook some amount of impropriety, especially if the overcharge (via the bid-ask spread) is on the order of pennies or basis points. As a result, it would behoove customers with larger accounts to research brokers' execution practices before settling with one.
 
 ### Open questions
 
