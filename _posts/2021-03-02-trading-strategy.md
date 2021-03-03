@@ -18,7 +18,7 @@ If you think you have a winning strategy - which you should, otherwise, stop tra
 
 Naively, this sounds like we are pressuring you to seek greater returns at the cost of adopting extra risk. However, it's almost the opposite, or at the very least, not that simple. Capital should be viewed as a tool for not only earning returns, but managing risk while preserving the same (absolute) returns. 
 
-For example, in the setting of selling puts, using all of your capital is the difference between 
+For example, in the context of selling puts, using all of your capital is the difference between 
 
 1. selling a single at-the-money put, and 
 2. selling several deep out-of-the-money puts on a diverse collection of underlying stocks.
