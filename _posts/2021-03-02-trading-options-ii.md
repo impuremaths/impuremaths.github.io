@@ -46,7 +46,7 @@ Diversify. Keep in mind that there are many ways to diversify, and you should us
 
 Options sellers profit from extrinsic value. It's great if you can predict stock prices (and the flexibility of options helps mollify the correctness of your attempts), but the [thesis]({{ "" | relative_url }}{% post_url 2021-02-22-trading-options %}) for trading options does not require it.
 
-The more controversial half of this principle is its contrapositive: _Do not buy extrinsic value_. The implications are surprisingly wide in the sense that many options sellers do not abide by them. Here are a few:
+The more controversial half of this principle is its contrapositive: _Do not buy extrinsic value_. The implications are surprising in the sense that many options sellers do not abide by them. Here are a few:
 
 1. Do not buy-to-close a contract (though one could argue that it is justified by opportunism). 
 2. Do not sell (narrow) spreads, due to the cost of the defensive leg.
