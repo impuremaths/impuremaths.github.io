@@ -48,6 +48,6 @@ Options sellers profit from extrinsic value. It's great if you can predict stock
 
 The more controversial half of this principle is its contrapositive: _Do not buy extrinsic value_. The implications are surprising in the sense that many options sellers do not abide by them. Here are a few:
 
-1. Do not buy-to-close a contract (though one could argue that it is justified by opportunism). 
+1. Do not buy-to-close a contract (though one could argue that it is justified by either capital efficiency or opportunism). 
 2. Do not sell (narrow) spreads, due to the cost of the defensive leg.
-3. Do not roll an option early. Wait until it is near expiration, carrying little extrinsic value.
+3. Do not roll an option early, unless it is deep in-the-money. Wait until it is near expiration or carrying little extrinsic value.
