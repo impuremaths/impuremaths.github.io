@@ -44,4 +44,4 @@ You might be a typical investor with a typical risk-averse profile. In that case
 
 The options market may be viewed as a way to monetize excess de-risking, for those who have the necessary capital and are willing to expend the effort. (The fact that effective diversification requires large amounts of capital is another manifestation of a market inefficiency, though this is less pronounced as brokerages begin to offer fractional shares.)
 
-Note that diversification is part of the thesis for index fund investing as well: Stocks are fairly valued relative to their risk-adjusted returns, but a diversified portfolio reduces that risk. However, options facilitate a more pure conversion between risk and value, since options generate no other value.
+Note that diversification is part of the thesis for index fund investing as well: Stocks are fairly valued relative to their risk-adjusted returns, but a diversified portfolio reduces that risk without reducing returns. However, options facilitate a more pure conversion between risk and value, since options generate no other value.
