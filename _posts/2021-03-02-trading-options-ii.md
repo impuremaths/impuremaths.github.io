@@ -15,7 +15,7 @@ This is part of a series discussing our intended options trading strategies.
 
 ### Capital efficiency
 
-If you think you have a winning strategy - which you should, otherwise, stop trading now - you should use _all of your capital_ to implement it. 
+If you think you have a winning strategy - and you should, otherwise, stop trading now - you should use _all of your capital_ to implement it. 
 
 Naively, this sounds like we are pressuring you to seek greater returns at the cost of adopting extra risk. However, it's almost the opposite, or at the very least, not that simple. Capital should be viewed as a tool for not only earning returns, but managing risk while preserving the same (absolute) returns. 
 
