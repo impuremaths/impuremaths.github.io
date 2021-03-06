@@ -2,7 +2,7 @@
 title: "Trading options II: Guiding principles (CODE)"
 ---
 
-We continue our series on [trading options]({{ "" | relative_url }}{% post_url 2021-02-22-trading-options %}). In this post, we discuss four principles of options trading which everyone knows but which everyone under-implements:
+We continue our series on [trading options]({{ "" | relative_url }}{% post_url 2021-02-22-trading-options %}). In this post, we discuss four principles of options trading which everyone under-implements:
 
 1. Capital efficiency,
 2. Opportunism,
