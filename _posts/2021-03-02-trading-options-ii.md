@@ -9,7 +9,7 @@ We continue our series on [trading options]({{ "" | relative_url }}{% post_url 2
 3. Diversification,
 4. Extrinsic value.
 
-CODE for short. The unifying recommendation for all four principles is to trade lightly and defensively.
+CODE for short. The unifying recommendation from all four principles is to trade lightly and defensively.
 
 This is part of a series discussing our intended options trading strategies.
 
