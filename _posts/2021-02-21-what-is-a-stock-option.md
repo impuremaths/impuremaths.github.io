@@ -48,7 +48,7 @@ A visualization of the intrinsic and extrinsic value of an option:
 
 <div class="media">
   
-![Relationship between stock price, intrinsic & extrinsic value](https://lh3.googleusercontent.com/pw/ACtC-3fNVfI7FGD13xMK7TPUCeHIU03Al_0lKuSVGEvk_85WRnGI4CMGVnDGLV8s3MBw1AAVKhf-8P33X495XN-5HIF-7J1euyia6YTRHarSuSrE_97do52Ab4YVEgB_lpSxXiEtbhYA9ibqCUuZ0vGjeIk=w1750-h1100-no?authuser=0)
+<img src="3fNVfI7FGD13xMK7TPUCeHIU03Al_0lKuSVGEvk_85WRnGI4CMGVnDGLV8s3MBw1AAVKhf-8P33X495XN-5HIF-7J1euyia6YTRHarSuSrE_97do52Ab4YVEgB_lpSxXiEtbhYA9ibqCUuZ0vGjeIk=w1750-h1100-no?authuser=0"></img>
 
 </div>
 
