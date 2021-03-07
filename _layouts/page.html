@@ -75,14 +75,14 @@ else {
 
 	
 var images = document.getElementsByTagName("img");
-let captions = [];
 	
 for (let i = 0; i < images.length; i++) {
 	if (images[i].title) {		
-		captions[i] = document.createElement("div");
-		captions[i].innerHTML = images[i].title;
-		if (images[i].nextElementSibling) images[i].nextElementSibling.parentNode.insertBefore(captions[i], images[i].nextElementSibling);
-		else images[i].parentNode.appendChild(captions[i]);
+		let caption = document.createElement("div");
+		caption.innerHTML = images[i].title;
+		caption.classList.add('caption');
+		if (images[i].nextElementSibling) images[i].nextElementSibling.parentNode.insertBefore(caption, images[i].nextElementSibling);
+		else images[i].parentNode.appendChild(caption);
 	}
 }
 	
