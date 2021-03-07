@@ -1,5 +1,3 @@
-# What is a stock option?
-
 A stock option is a contract that gives the holder the right (but not the obligation) to buy or sell a specific _number of shares_ of a particular _stock_ for a specific _price_ before a particular _date_.
 
 ## The theoretical stuff
