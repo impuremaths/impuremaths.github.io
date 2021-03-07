@@ -217,6 +217,11 @@ img {
     max-height: 100%;
 }
 
+.landscape {
+    height: 30px;
+    width: 80px;
+}
+
 a {
     text-decoration: none;
     color: #888;
