@@ -56,10 +56,10 @@ The relationship between the three factors and the four basic option trades are 
 
 _           | stock price | expiry date | volatility
 ------------| ----------- | ----------- | -------------
-long call   | same        | opposite    | same
-long put    | opposite    | opposite    | same
-short call  | opposite    | same        | opposite
-short put   | same        | same        | opposite
+long call   | proportional| inverse     | proportional
+long put    | inverse     | inverse     | proportional
+short call  | inverse     | proportional| inverse
+short put   | proportional| proportional| inverse
 
 *N.B. same / opposite indicates movement correlation, i.e. a long call being "same" with stock price is to be read as "the stock price and the value of being long a call option moves in the same direction", equivalently "as the underlying stock's price increases, the long call option trade gains value".
 
