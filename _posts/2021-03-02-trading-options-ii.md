@@ -2,6 +2,14 @@
 title: "Trading options II: Guiding principles (CODE)"
 ---
 
+<div class="media">
+  <p>Now at a place like Berkshire Hathaway or even the Daily Journal, we’ve done better than average. And now there’s a question, why has that happened? Why has that happened? And the answer is pretty simple. We tried to do less.</p>
+  
+  <p>We never had the illusion we could just hire a bunch of bright young people and they would know more than anybody about canned soup and aerospace and utilities and so on and so on and so on. We never had that dream.</p>
+  
+  <p>- Charlie Munger (March 3, 2019)</p>
+  </div>
+
 We continue our series on [trading options]({{ "" | relative_url }}{% post_url 2021-02-22-trading-options %}). In this post, we discuss four principles of options trading which everyone under-implements:
 
 1. Capital efficiency,
