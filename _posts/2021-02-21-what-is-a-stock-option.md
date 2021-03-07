@@ -1,3 +1,7 @@
+---
+title: "What is a stock option?"
+---
+
 A stock option is a contract that gives the holder the right (but not the obligation) to buy or sell a specific _number of shares_ of a particular _stock_ for a specific _price_ before a particular _date_.
 
 ## The theoretical stuff
@@ -42,7 +46,11 @@ More precisely, the value of an option can be decomposed into:
 
 A visualization of the intrinsic and extrinsic value of an option:
 
+<div class="media">
+  
 ![Relationship between stock price, intrinsic & extrinsic value](https://lh3.googleusercontent.com/pw/ACtC-3fNVfI7FGD13xMK7TPUCeHIU03Al_0lKuSVGEvk_85WRnGI4CMGVnDGLV8s3MBw1AAVKhf-8P33X495XN-5HIF-7J1euyia6YTRHarSuSrE_97do52Ab4YVEgB_lpSxXiEtbhYA9ibqCUuZ0vGjeIk=w1750-h1100-no?authuser=0)
+
+</div>
 
 There are three factors that change the value of an option:
 - the price of the underlying stock, which changes the intrinsic value of the option.
