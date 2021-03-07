@@ -222,6 +222,12 @@ img {
    margin-right: auto;
 }
 
+.caption {
+     	width: 80%;
+	min-width: 100px;	
+    	font-size: 0.8em;
+}
+
 a {
     text-decoration: none;
     color: #888;
