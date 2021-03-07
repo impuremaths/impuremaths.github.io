@@ -40,16 +40,16 @@ An option contract has value. To understand why intuitively, imagine that we cur
 
 More precisely, the value of an option can be decomposed into:
 - intrinsic value, the benefit that can be realized by immediately exercising the option.
-- extrensic value, the potential benefit of holding the option into an unknown and unrealized future (where advantageous stock price movements may occur for whatever reason).
+- extrinsic value, the potential benefit of holding the option into an unknown and unrealized future (where advantageous stock price movements may occur for whatever reason).
 
-A visualization of the intrinsic and extrensic value of an option:
+A visualization of the intrinsic and extrinsic value of an option:
 
-> TODO: PICTURE GOES HERE
+![Relationship between stock price, intrinsic & extrinsic value](https://lh3.googleusercontent.com/pw/ACtC-3fNVfI7FGD13xMK7TPUCeHIU03Al_0lKuSVGEvk_85WRnGI4CMGVnDGLV8s3MBw1AAVKhf-8P33X495XN-5HIF-7J1euyia6YTRHarSuSrE_97do52Ab4YVEgB_lpSxXiEtbhYA9ibqCUuZ0vGjeIk=w1750-h1100-no?authuser=0)
 
 There are three factors that change the value of an option:
 - the price of the underlying stock, which changes the intrinsic value of the option.
-- the passage of time, which changes the extrensic value of the option.
-- a change in implied volatility, which changes the extrensic value of the option.
+- the passage of time, which changes the extrinsic value of the option.
+- a change in implied volatility, which changes the extrinsic value of the option.
 
 The relationship between the three factors and the four basic option trades are as follows:
 
