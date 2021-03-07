@@ -224,9 +224,8 @@ img {
 
 .caption {
 	text-align:center;
-     	width: 80%;
-	min-width: 100px;	
-    	font-size: 0.8em;
+	min-width: 150px;	
+    	font-size: 0.9em;
 }
 
 a {
