@@ -1,5 +1,5 @@
 ---
-title: "Trading options: A thesis"
+title: "Trading Options: A thesis"
 ---
 
 <div class="media">
