@@ -1,5 +1,5 @@
 ---
-title: "Order execution: Payment for order flow"
+title: "Order Execution: Payment for order flow"
 ---
 
 <div class="media">
