@@ -1,5 +1,5 @@
 ---
-title: "Order execution III: Best execution and the NBBO"
+title: "Order Execution III: Best execution and the NBBO"
 ---
 
 We continue our series on [order execution]({{ "" | relative_url }}{% post_url 2021-02-24-order-execution %}). In this post, we seek to better understand the sense in which brokers are required to obtain the best available executions for their customers. 
