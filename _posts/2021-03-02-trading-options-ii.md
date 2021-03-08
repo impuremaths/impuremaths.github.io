@@ -1,5 +1,5 @@
 ---
-title: "Trading options II: Guiding principles (CODE)"
+title: "Trading Options II: Guiding principles (CODE)"
 ---
 
 <div class="media">
