@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's new
+title: What's New
 ---
 
 {% for post in site.posts limit:10 %}
@@ -11,6 +11,8 @@ title: What's new
 	
 	<div style="margin-left:15px; margin-right:15px">
 		{{ post.excerpt }}
+		
+		<a href="{{ post.url | relative_url }}">more...</a>
 	</div>
 </div>
 {% endfor %}
