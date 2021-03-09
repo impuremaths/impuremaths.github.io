@@ -170,7 +170,7 @@ function hide(id) { DE(id).style.display = 'none';}
 }
 	
 window.onload = function() {
-	D('outersidebar').scrollTo(D('outersidebar').scrollWidth, 0);
+	D('outersidebar').scrollTo({left: D('outersidebar').scrollWidth,top:0, behavior:'smooth'});
 };
 	
 </script>
