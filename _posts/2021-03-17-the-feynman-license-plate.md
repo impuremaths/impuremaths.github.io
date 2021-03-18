@@ -12,7 +12,7 @@ I have always wanted to understand the "Feynman license plate fallacy" deeply an
 
 ### A list of thought experiments
 
-To understand the FLP fallacy, I think it will be helpful to list a number of other thought experiments often drawn for comparison.
+To understand the FLP fallacy, I think it will be helpful to list a number of other thought experiments often drawn for comparison:
 
 1. Observing the license plate AAA 000.
 2. Winning the lottery.
