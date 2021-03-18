@@ -21,8 +21,6 @@ To understand the FLP fallacy, it will be helpful to list a number of other thou
 5. Telling someone a squence of five coin flips and then flipping it.
 6. Conducting either of the two previous scenarios with the sequence HHHHH.
 
-### Strings and plants
-
 The fundamental question posed by the FLP fallacy is: When is someone pulling the strings? When is it reasonable to suspect that a willful agent has planted the coins and dice governing what you have witnessed?
 
 We can divide the list of thought experiments as follows. For the following, suspicion would be fallacious:
@@ -37,4 +35,4 @@ On the other hand, suspicion would be warranted for the remaining scenarios:
 5. Staking a sequence and then flipping it.
 6. The sequence HHHHH, regardless.
 
-(Let's put off 3 for now.) How can we best understand these groupings?
+(Let's put off 3 for now.) How can we best understand what characterizes and differentiates these two groupings?
