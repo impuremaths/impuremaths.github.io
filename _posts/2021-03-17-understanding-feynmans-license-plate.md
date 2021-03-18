@@ -19,8 +19,22 @@ To understand the FLP fallacy, it will be helpful to list a number of other thou
 3. The hospitality of Earth toward life.
 4. Flipping a coin five times and then telling someone the resulting sequence.
 5. Telling someone a squence of five coin flips and then flipping it.
-6. Conducting either of the two previous scenarios with the sequence HHHHH, and using a trick coin with H on both sides.
+6. Conducting either of the two previous scenarios with the sequence HHHHH.
 
 ### Strings and plants
 
 The fundamental question posed by the FLP fallacy is: When is someone pulling the strings? When is it reasonable to suspect that a willful agent has planted the coins and dice governing what you have witnessed?
+
+We can divide the list of thought experiments as follows. Fallacious suspicion:
+
+0. Feynman's license plate ARW 357.
+2. Winning the lottery.
+4. Flipping and then reporting.
+
+On the other hand, suspicion is warranted in the remaining scenarios:
+
+1. The license plate AAA 000.
+5. Staking a sequence and then flipping it.
+6. The sequence HHHHH, regardless.
+
+(Let's put off 3 for now.) How can we best understand these groupings?
