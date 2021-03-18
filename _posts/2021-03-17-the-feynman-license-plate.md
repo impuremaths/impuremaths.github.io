@@ -16,7 +16,7 @@ To understand the FLP fallacy, it will be helpful to list a number of other thou
 
 1. Observing the license plate AAA 000.
 2. Winning the lottery.
-3. The presence of life on Earth.
+3. The hospitality of Earth toward life.
 4. Flipping a coin five times and then telling someone the resulting sequence.
 5. Telling someone a squence of five coin flips and then flipping it.
-6. Conducting either of the two previous scenarios with the sequence HHHHH and a coin with heads on both sides.
+6. Conducting either of the two previous scenarios with the sequence HHHHH using a trick coin with heads on both sides.
