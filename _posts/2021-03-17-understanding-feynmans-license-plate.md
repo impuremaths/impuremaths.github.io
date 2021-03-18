@@ -35,4 +35,4 @@ On the other hand, suspicion would be warranted for the remaining scenarios:
 5. Staking a sequence and then flipping it.
 6. The sequence HHHHH, regardless.
 
-(Let's put off 3 for now.) How can we best understand what characterizes and differentiates these two groupings?
+(Let's put off 3 for now.) What characterizes and differentiates these two groupings?
