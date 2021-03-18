@@ -33,7 +33,7 @@ Naively, this sounds like we are pressuring you to seek greater returns at the c
 
 For example, in the context of selling puts, using all of your capital is the difference between 
 
-1. selling a single at-the-money put, and 
+1. selling a single at-the-money put while holding a lot of free cash, and 
 2. selling several deep out-of-the-money puts on a diverse collection of underlying stocks.
 
 One has almost a 50% chance of ending poorly, while the other has a vanishingly small chance of ending poorly.
