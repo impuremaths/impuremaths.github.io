@@ -1,5 +1,5 @@
 ---
-title: "The Feynman license plate"
+title: "Understanding Feynman's license plate"
 ---
 
 <div class="media">
@@ -20,3 +20,7 @@ To understand the FLP fallacy, it will be helpful to list a number of other thou
 4. Flipping a coin five times and then telling someone the resulting sequence.
 5. Telling someone a squence of five coin flips and then flipping it.
 6. Conducting either of the two previous scenarios with the sequence HHHHH using a trick coin with heads on both sides.
+
+### Strings and plants
+
+The fundamental question posed by the FLP fallacy is: When is someone pulling the strings? When is it reasonable to suspect that a willful agent has planted the coins and dice governing what you have witnessed?
