@@ -19,4 +19,4 @@ To understand the FLP fallacy, it will be helpful to list a number of other thou
 3. The presence of life on Earth.
 4. Flipping a coin five times and then telling someone the resulting sequence.
 5. Telling someone a squence of five coin flips and then flipping it.
-6. Conducting either of the two previous scenarios with the sequence HHHHH and a coin with two heads.
+6. Conducting either of the two previous scenarios with the sequence HHHHH and a coin with heads on both sides.
