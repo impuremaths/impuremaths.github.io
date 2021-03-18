@@ -1,5 +1,5 @@
 ---
-title: "The Feynman license plate"
+title: "The Feynman license plate fallacy"
 ---
 
 <div class="media">
