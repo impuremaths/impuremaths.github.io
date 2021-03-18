@@ -5,7 +5,7 @@ title: "The Feynman license plate"
 <div class="media">
   <p>You know, the most amazing thing happened to me tonight. I was coming here, on the way to the lecture, and I came in through the parking lot. And you won’t believe what happened. I saw a car with the license plate ARW 357. Can you imagine? Of all the millions of license plates in the state, what was the chance that I would see that particular one tonight? Amazing!</p>
   
-  <p>- Richard Feynman
+  <p>- Richard Feynman</p>
 </div>
 
 I have always wanted to understand the "Feynman license plate fallacy" deeply and precisely. We will explore this in today's post.
