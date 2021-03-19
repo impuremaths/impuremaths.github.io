@@ -14,7 +14,7 @@ I have always wanted to understand the "Feynman license plate fallacy" deeply an
 
 To understand the FLP fallacy, it will be helpful to list a number of other thought experiments often drawn for comparison:
 
-1. Observing the license plate AAA 000.
+1. Observing the license plate ODE 009.
 2. Winning the lottery.
 3. The hospitality of Earth toward life.
 4. Flipping a coin five times and then telling someone the resulting sequence.
@@ -23,7 +23,7 @@ To understand the FLP fallacy, it will be helpful to list a number of other thou
 
 The fundamental question posed by the FLP fallacy is: When is someone pulling the strings? When is it reasonable to suspect that a willful agent has planted the coins and dice governing what you have witnessed?
 
-We can divide the list of thought experiments as follows. For the following, suspicion would be fallacious:
+We can partition the above list as follows. For the following, suspicion would be fallacious:
 
 0. Feynman's license plate ARW 357.
 2. Winning the lottery.
