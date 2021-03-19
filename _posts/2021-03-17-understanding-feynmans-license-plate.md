@@ -20,6 +20,8 @@ To understand the FLP fallacy, it will be helpful to list a number of other thou
 4. Flipping a coin five times and then telling someone the resulting sequence.
 5. Telling someone a squence of five coin flips and then flipping it.
 6. Conducting either of the two previous scenarios with the sequence HHHHH.
+7. Exactly two students getting the same right answer on an exam.
+8. Exactly two students getting the same wrong answer on an exam.
 
 The fundamental question posed by the FLP fallacy is: When is someone pulling the strings? When is it reasonable to suspect that a willful agent has planted the coins and dice governing what you have witnessed?
 
@@ -28,11 +30,13 @@ We can partition the above list as follows. For the following, suspicion would b
 0. Feynman's license plate ARW 357.
 2. Winning the lottery.
 4. Flipping and then reporting.
+7. Identical right answers.
 
 On the other hand, suspicion would be warranted for the remaining scenarios:
 
 1. The license plate AAA 000.
 5. Staking a sequence and then flipping it.
 6. The sequence HHHHH, regardless.
+8. Identical wrong answers.
 
 (Let's put off 3 for now.) What characterizes and differentiates these two groupings?
