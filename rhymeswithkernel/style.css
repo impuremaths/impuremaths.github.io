@@ -1,0 +1,41 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+textarea {
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+}
+
+button {
+    margin-left: 10px;
+}
+
+.column {
+    float: left;
+}
+
+#entries {
+    width: 75%;
+}
+
+#tags {
+    width: 25%;
+}
+
+.tag {
+    background-color: lightgray;
+    border-width: 1px;
+    margin: 2px;
+}
+
+.entry {
+    background-color: rgb(233, 233, 233);
+    padding: 10px;
+    margin: 10px;
+}
+
+.entry-delete {
+    float: right;
+}
